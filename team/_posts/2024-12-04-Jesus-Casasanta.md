@@ -5,13 +5,13 @@ position: Undergraduate Research Assistant
 nickname: jesus
 handle: jcasasanta
 email: jcasa121@fiu.edu
-twitter: 
+twitter:
 github: jcasa28
-scholar: 
-orcid: 
-osf: 
-image: /assets/images/team/Jesus-Casasanta.jpg
-cv: 
+scholar:
+orcid:
+osf:
+image: /assets/images/team/Casasanta.png
+cv:
 alum: false
 ---
 
